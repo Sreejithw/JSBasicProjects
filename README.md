@@ -1,1 +1,1 @@
-Just some JS Project for practice
+Day 1 : Pixel Generator
